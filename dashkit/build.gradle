@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.dashkit'
+    namespace 'io.cheddarswallet.dashkit'
     compileSdk 34
 
     defaultConfig {

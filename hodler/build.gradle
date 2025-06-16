@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.hodler'
+    namespace 'io.cheddarswallet.hodler'
     compileSdk 34
 
     defaultConfig {

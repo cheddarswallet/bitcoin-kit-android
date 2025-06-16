@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.litecoinkit'
+    namespace 'io.cheddarswallet.litecoinkit'
     compileSdk 34
 
     defaultConfig {

@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.bitcoinkit'
+    namespace 'io.cheddarswallet.bitcoinkit'
     compileSdk 34
 
     defaultConfig {

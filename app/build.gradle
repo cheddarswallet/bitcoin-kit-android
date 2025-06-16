@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'io.horizontalsystems.bitcoinkit.demo'
+    namespace 'io.cheddarswallet.bitcoinkit.demo'
     compileSdk 34
 
     defaultConfig {
-        applicationId "io.horizontalsystems.bitcoinkit.demo"
+        applicationId "io.cheddarswallet.bitcoinkit.demo"
         minSdkVersion 23
         targetSdkVersion 34
         versionCode 1

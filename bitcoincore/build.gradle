@@ -77,7 +77,8 @@ dependencies {
     implementation 'com.squareup.okhttp3:okhttp:4.5.0'
 
     // HDWallet Kit
-    api 'com.github.cheddarswallet:hd-wallet-kit-android:a74b51f'
+    api 'com.github.cheddarswallet:hd-wallet-kit-android:9012fb918f'
+    //api 'com.github.cheddarswallet:hd-wallet-kit-android:a74b51f'
 
     // Test helpers
     testImplementation 'junit:junit:4.13.2'
